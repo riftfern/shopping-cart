@@ -4,12 +4,12 @@ export default function Nav() {
   return (
     <nav className="navBar">
       <header>
-        <h1>Pre-Vintage/Vintage Clothes</h1>
+        <h1>pre-vintage/vintage clothes</h1>
       </header>
       <ul className="links">
-        <li>Home</li>
-        <li>Shop</li>
-        <li>Cart</li>
+        <li>home</li>
+        <li>shop</li>
+        <li>cart</li>
       </ul>
     </nav>
   );
