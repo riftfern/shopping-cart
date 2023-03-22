@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Home() {
-  return <button></button>;
+  return <button>enter store</button>;
 }

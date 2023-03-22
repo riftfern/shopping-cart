@@ -9,6 +9,7 @@ html {
 }
 nav {
   height: 10vh;
+
   font-family: "Corben", Georgia, "Times New Roman", Times, serif;
   display: flex;
   justify-content: space-evenly;
@@ -16,6 +17,10 @@ nav {
   padding: 8px;
   color: aliceblue;
   background-color: rgba(6, 6, 6, 0.619);
+}
+
+header {
+  font-size: medium;
 }
 
 ul {
