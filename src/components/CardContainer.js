@@ -27,7 +27,7 @@ export default function CardContainer() {
 
   useEffect(() => {
     setCards([...cards]);
-  });
+  }, [cards]);
 
   return (
     <>
