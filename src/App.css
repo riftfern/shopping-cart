@@ -5,7 +5,7 @@
 }
 
 html {
-  background-image: url("./images/waves.jpeg");
+  background-color: aliceblue;
 }
 nav {
   height: 10vh;
@@ -63,8 +63,8 @@ button:hover {
   height: 100%;
   font-family: "Nobile", Helvetica, Arial, sans-serif;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 25%);
+  grid-template-rows: auto-fit;
   grid-gap: 1px;
   padding: 15px 20px;
   justify-content: space-around;
