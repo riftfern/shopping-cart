@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-function CartItem({
+export default function CartItem({
   id,
   itemName,
   imageId,
